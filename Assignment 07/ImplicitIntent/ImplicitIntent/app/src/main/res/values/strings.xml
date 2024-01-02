@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ImplicitIntent</string>
+    <string name="enable_links">Enable Links</string>
+    <string name="open_web_page">Open Web Page</string>
+    <string name="mywebview">MyWebView</string>
+    <string name="allow_web_links_to_open_in_this_app">Allow web links to open in this app</string>
+    <string name="todo">TODO</string>
+    <string name="enable_link">Enable Links</string>
+</resources>

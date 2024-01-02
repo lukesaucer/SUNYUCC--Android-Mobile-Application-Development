@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FinalProjectAttempt5</string>
+    <string name="textview">TextView</string>
+    <string name="notes">Notes</string>
+</resources>
